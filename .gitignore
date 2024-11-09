@@ -1,0 +1,10 @@
+deno.lock
+
+ecosystem.config.js
+run.sh
+
+.idea/
+node_modules/
+
+.DS_Store
+*.DS_Store
