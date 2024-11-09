@@ -5,6 +5,18 @@ This is an API for my website [doyouliveinthe.uk][dylit.uk] (DYLIT.UK), made in 
 # Endpoints
 ## MyInstants
 - Base URL: `/myinstants`
+- Default Response:
+    ```json
+    {
+      "data": [
+        {
+          "name": "Sound Name",
+          "url": "https://myinstants.com/media/sounds/sound.mp3"
+        }
+      ],
+      "count": 20
+    }
+    ```
 
 ### GET `/trending`
 Returns a list of the top trending sounds.
