@@ -6,6 +6,7 @@ This is an API for my website [doyouliveinthe.uk][dylit.uk] (DYLIT.UK), made in 
 ## MyInstants
 - Base URL: `/myinstants`
 - Default Response:
+
     ```json
     {
       "data": [
