@@ -67,7 +67,7 @@ myInstantsRouter.get("/search", async (ctx) => {
 
 myInstantsRouter.get("/", (ctx) => {
     ctx.response.body = new Project("MyInstants API", "An API for MyInstants", {
-        github: "https://github.com/StupidRepo/MyInstants-API",
+        github: "https://github.com/StupidRepo/DYLITUK-API",
     }, {
         "/trending": {
             description: "Get trending sounds",

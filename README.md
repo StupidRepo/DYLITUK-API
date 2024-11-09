@@ -14,7 +14,7 @@ An unofficial API for the [MyInstants](https://myinstants.com) soundboard site.
       "data": [
         {
           "name": "Sound Name",
-          "url": "https://myinstants.com/media/sounds/sound.mp3"
+          "soundURL": "https://myinstants.com/media/sounds/sound.mp3"
         }
       ],
       "count": 20
